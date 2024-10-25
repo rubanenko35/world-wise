@@ -1,0 +1,184 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Mahora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:22:37.939Z",
+      "notes": "",
+      "position": {
+        "lat": "39.215250142371424",
+        "lng": "-1.710983171053462"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Mengabril",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:24:28.009Z",
+      "notes": "",
+      "position": {
+        "lat": "38.942336154797594",
+        "lng": "-5.9483897086301445"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Casar de Caceres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:31:16.648Z",
+      "notes": "",
+      "position": {
+        "lat": "39.5718068746302",
+        "lng": "-6.455567143446089"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Calamocha",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:31:26.741Z",
+      "notes": "",
+      "position": {
+        "lat": "40.913490264865175",
+        "lng": "-1.3369896894583657"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Huertahernando",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:32:01.726Z",
+      "notes": "",
+      "position": {
+        "lat": "40.83041655480427",
+        "lng": "-2.260973585163886"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Fresno El Viejo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:33:50.626Z",
+      "notes": "",
+      "position": {
+        "lat": "41.195180848511995",
+        "lng": "-5.118146826153152"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Benuza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:40:28.598Z",
+      "notes": "",
+      "position": {
+        "lat": "42.32603509998772",
+        "lng": "-6.632615528223715"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Aguelmous",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-10-25T14:40:32.691Z",
+      "notes": "",
+      "position": {
+        "lat": "33.160172633126294",
+        "lng": "-5.797117327038394"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Paradela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T14:40:48.704Z",
+      "notes": "",
+      "position": {
+        "lat": "42.77919109800924",
+        "lng": "-7.598307030332594"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Rancon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-25T14:40:58.695Z",
+      "notes": "",
+      "position": {
+        "lat": "46.134249244361264",
+        "lng": "1.166839459191085"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Kharkiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-10-25T14:41:12.949Z",
+      "notes": "",
+      "position": {
+        "lat": "49.80961409540476",
+        "lng": "36.33069374224893"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-10-25T14:41:21.586Z",
+      "notes": "",
+      "position": {
+        "lat": "50.44353857996304",
+        "lng": "30.544529895281762"
+      },
+      "id": 98443209
+    }
+  ]
+}
