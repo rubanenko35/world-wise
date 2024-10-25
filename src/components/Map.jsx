@@ -1,5 +1,5 @@
 import styles from "./Map.module.css";
-import {useNavigate, useSearchParams} from "react-router-dom";
+import {useNavigate} from "react-router-dom";
 import {MapContainer, Marker, Popup, TileLayer, useMap, useMapEvents} from "react-leaflet";
 import {useEffect, useState} from "react";
 import icon from 'leaflet/dist/images/marker-icon.png';
