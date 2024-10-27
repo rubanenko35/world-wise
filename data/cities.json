@@ -49,18 +49,6 @@
       "id": 98443205
     },
     {
-      "cityName": "Kharkiv",
-      "country": "Ukraine",
-      "emoji": "🇺🇦",
-      "date": "2024-10-25T14:41:12.949Z",
-      "notes": "",
-      "position": {
-        "lat": "49.80961409540476",
-        "lng": "36.33069374224893"
-      },
-      "id": 98443208
-    },
-    {
       "cityName": "Poltava",
       "country": "Ukraine",
       "emoji": "🇺🇦",
@@ -71,6 +59,54 @@
         "lng": "34.56666153193982"
       },
       "id": 98443209
+    },
+    {
+      "cityName": "Sidi Hcine",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-10-25T15:40:20.797Z",
+      "notes": "",
+      "position": {
+        "lat": "33.04320832245791",
+        "lng": "-5.99265789985656"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Manyoni",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2024-10-25T15:40:29.423Z",
+      "notes": "",
+      "position": {
+        "lat": "-6.663177758652757",
+        "lng": "34.71560472359689"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Oneida",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-10-25T15:40:50.168Z",
+      "notes": "",
+      "position": {
+        "lat": "42.552582770561514",
+        "lng": "-91.33982568284486"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Novopokrovka",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-10-27T14:24:30.099Z",
+      "notes": "",
+      "position": {
+        "lat": "45.44472786291081",
+        "lng": "34.42911088202974"
+      },
+      "id": 98443213
     }
   ]
 }
